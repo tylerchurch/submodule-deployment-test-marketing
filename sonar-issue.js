@@ -4,6 +4,6 @@ if (a == false) {
     console.log("Hmm...");
 }
 
-if (a == NaN) {
+if (a !== a) {
     console.log(":D");
 }
